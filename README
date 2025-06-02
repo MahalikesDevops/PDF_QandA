@@ -1,0 +1,3 @@
+This python code uses llama parse, a LLM tool that is specifically designed to read and parse PDF.
+the code will parse the PDF create a markdown file and then from the mark down file we are getting the output inform of plain text according to the format.
+the qa agent API takes the question as input and returns answer.
